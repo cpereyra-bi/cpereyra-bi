@@ -28,11 +28,3 @@ Soy licenciada en Marketing, con experiencia en distintas industrias y una fuert
 → Integración de datos de ventas, clientes y logística para una estación de servicio en Formosa. ETL con Python + visualización en Power BI.
 
 🔹 [Más proyectos en construcción...]
-
----
-
-💡 **Actualmente estoy buscando oportunidades como Analista de Datos**  
-Estoy abierta a proyectos, consultorías o posiciones remotas/presenciales.
-
-📬 ¡Conectemos!  
-[LinkedIn](https://www.linkedin.com/in/cpereyra/) | [Email](mailto:cpereyra.data@gmail.com)
