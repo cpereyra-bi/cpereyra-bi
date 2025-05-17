@@ -1,9 +1,35 @@
-<h1 align="center">👩🏻‍💻 Hola, soy Camila | Hi, I'm Camila</h1>
-<p align="center">
-📍 Argentina | 📊 Marketing + BI | 🌱 Tech & impact enthusiast
-</p>
+<h1 align="center">Hola, soy Camila | Hi, I'm Camila 👩🏻‍💻</h1>
+<p align="center">📍 Argentina 📊 Marketing + Data 🌱 Tech for Impact</p>
 
 ---
+
+**Analista de Datos** con una mirada estratégica y formación en marketing, orientada a transformar datos en decisiones que generen impacto real. Me especializo en herramientas como **Power BI, SQL, Python, hojas de cálculo** y procesos **ETL en la nube**.
+
+🔍 Me interesa conectar los datos con los desafíos del negocio, descubrir patrones, optimizar procesos y encontrar oportunidades. Trabajo con mentalidad analítica, curiosa y enfocada en soluciones.
+
+🌱 En constante aprendizaje y evolución, busco aportar valor en equipos que combinan **tecnología, análisis e innovación con propósito**.
+
+🤝 **Abierta a colaborar** en iniciativas de:
+- Inteligencia de negocios
+- Análisis de datos para decisiones estratégicas
+- Proyectos de impacto social o ambiental con base tecnológica
+
+---
+
+### About me — EN
+
+*Data Analyst with a strategic mindset and a background in marketing, focused on transforming data into impactful decisions. Skilled in tools like Power BI, SQL, Python, spreadsheets, and cloud-based ETL processes*.
+
+*I’m passionate about connecting data with business challenges, identifying patterns, optimizing processes, and uncovering opportunities. I approach problems with curiosity, analytical thinking, and a solution-oriented mindset*.
+
+*Continuously learning and growing, I aim to bring value to teams that combine technology, analytics, and purpose-driven innovation*.
+
+*Always learning. Always growing. Open to work on*:
+- *Business intelligence and data strategy*
+- *Analytics for impact-driven organizations*
+- *Data projects that blend tech and purpose*
+
+📬 Let's connect: **cpereyra.data@gmail.com**
 
 ## Mis Proyectos
 
