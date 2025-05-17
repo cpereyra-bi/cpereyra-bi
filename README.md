@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Camila | Hi, I'm Camila</h1>
+<h1 align="center">👩🏻‍💻 Hola, soy Camila | Hi, I'm Camila</h1>
 <p align="center">
 📍 Argentina | 📊 Marketing + BI | 🌱 Tech & impact enthusiast
 </p>
