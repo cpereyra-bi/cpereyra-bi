@@ -30,10 +30,28 @@ Feel free to reach out if you'd like to work together!
 📩 cpereyra.data@gmail.com
 
 ---
+## Mis Proyectos
 
-🚀 **Proyectos destacados**
+### 📌 [LubricomSRL - Proyecto Final Unicorn Academy 2025](https://github.com/cpereyra-bi/LubricomSRL)
 
-🔹 [Lubricom SRL: Tablero de Control con Power BI](https://github.com/cpereyra-bi/LubricomSRL)  
-→ Integración de datos de ventas, clientes y logística para una estación de servicio en Formosa. ETL con Python + visualización en Power BI.
+> Análisis de datos integral desarrollado para la empresa Lubricom SRL, una estación de servicios de bandera AXION. 
 
-🔹 [Más proyectos en construcción...]
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+## Mis Proyectos
+
+### 🥑 [Distribuidora Saludable - Análisis de Ventas](https://github.com/cpereyra-bi/DistriSaludable)
+
+> Análisis de ventas sobre base transaccional anual. Detección de insights clave para mejorar decisiones estratégicas y sostenibilidad del negocio.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+
+
