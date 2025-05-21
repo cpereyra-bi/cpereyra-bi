@@ -52,7 +52,7 @@ Optimización de la gestión interna mediante reportes automatizados que permite
 
 ## [🥑 Rico y fresco - Análisis de Ventas](https://github.com/cpereyra-bi/DistriSaludable)
 
-Proyecto de análisis de una base de datos transaccional anual para una distribuidora de alimentos saludables. 
+Proyecto de análisis de una base de datos transaccional anual para una distribuidora de alimentos saludables. Se desarrolla un análisis estratégico del negocio y se presentan recomendaciones accionables a futuro. 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
