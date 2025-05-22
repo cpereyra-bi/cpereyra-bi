@@ -61,6 +61,12 @@ Análisis estratégico de una base de datos transaccional anual para una distrib
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
+## [🚍 Optimización del Transporte Urbano](https://github.com/cpereyra-bi/TransporteUrbano)
+Analiza, modela y visualiza datos de viaje en tiempo real con un enfoque granular. Convierte minutos y horas en decisiones estratégicas.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
+
 ## [🏨 Oferta turística en Córdoba - Análisis de evolución](https://github.com/cpereyra-bi/Alojamiento-Turismo-Cordoba)
 
 Análisis de datos abiertos sobre alojamientos turísticos en Córdoba capital, con foco en establecimientos, plazas y categorías hoteleras. El proyecto identifica tendencias post-pandemia y su debida evolución para el periodo 2020-2025.
