@@ -42,6 +42,7 @@ Desarrollo de herramienta de análisis integral para monitorear métricas clave 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
 ## [🏥 Clínica Sanitaria - Automatización de Reportes](https://github.com/cpereyra-bi/ClinicaSanitaria)
 
@@ -49,6 +50,7 @@ Optimización de la gestión interna mediante reportes automatizados que permite
 
 ![Database](https://img.shields.io/badge/Database-4DB33D?style=flat-square&logo=databricks&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
 ## [🥑 Rico y fresco - Análisis de Ventas](https://github.com/cpereyra-bi/DistriSaludable)
 
@@ -57,16 +59,21 @@ Análisis estratégico de una base de datos transaccional anual para una distrib
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
 ## [🏨 Oferta turística en Córdoba - Análisis de evolución](https://github.com/cpereyra-bi/Alojamiento-Turismo-Cordoba)
 
 Análisis de datos abiertos sobre alojamientos turísticos en Córdoba capital, con foco en establecimientos, plazas y categorías hoteleras. El proyecto identifica tendencias post-pandemia y su debida evolución para el periodo 2020-2025.
+
+![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
 🚧 En Construcción
 
 ## [💰 Relevamiento Salarial Córdoba 2025 - Informe](https://github.com/cpereyra-bi/Relevamiento-Salarial-Gob-de-Cordoba-2025)
 
 Análisis exploratorio de la estructura salarial del sector público de Córdoba. El proyecto organiza, visualiza y modela datos sobre cargos, patrones y distribución salarial de marzo 2025.
+
+![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
 🚧 En Construcción
 
