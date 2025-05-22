@@ -70,6 +70,19 @@ Análisis exploratorio de la estructura salarial del sector público de Córdoba
 
 🚧 En Construcción
 
+<!-- Current Stats card -->
+</br>
+<h2>Current Stats</h2>
+
+<div>
+  <a href="https://github.com/cpereyra-bi">
+    <img alt="Camila's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=cpereyra-bi&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+  </a>
+  <a href="https://github.com/cpereyra-bi">
+    <img src="https://github-readme-stats.vercel.app/api?username=cpereyra-bi&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+  </a>
+</div>
+
 <!-- Activity Graph card -->
 </br>
 </br>
@@ -83,6 +96,3 @@ Análisis exploratorio de la estructura salarial del sector público de Córdoba
 ![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/cpereyra-bi?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=cpereyra-bi&style=flat&color=05122A)
-
-
-
