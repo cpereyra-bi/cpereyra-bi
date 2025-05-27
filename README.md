@@ -61,6 +61,13 @@ Análisis estratégico de una base de datos transaccional anual para una distrib
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
+## [⭕ Cámara de Legisladores Córdoba](https://github.com/cpereyra-bi/CamLegisladores2025)
+Analizo la composición, participación y asistencia en la Legislatura de la Provincia de Córdoba durante el período diciembre 2024 – abril 2025, transformando datos abiertos en visualizaciones claras y accesibles.
+
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
+
 ## [🚍 Optimización del Transporte Urbano](https://github.com/cpereyra-bi/TransporteUrbano)
 Analiza, modela y visualiza datos de viaje en tiempo real con un enfoque granular. Convierte minutos y horas en decisiones estratégicas.
 
