@@ -79,7 +79,7 @@ Dashboard de análisis de tickets en Power BI. Incluye relaciones complejas, med
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-![Stars](https://img.shields.io/github/stars/cpereyra-bi/SoporteTecnico?label=%E2%AD%90%20Star&logo=github&style=flat-square)
+![Stars](https://img.shields.io/github/stars/cpereyra-bi/AtencionalCliente?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
 ## [🏨 Oferta turística en Córdoba - Análisis de evolución](https://github.com/cpereyra-bi/Alojamiento-Turismo-Cordoba)
 
