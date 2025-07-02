@@ -69,10 +69,17 @@ Analizo la composición, participación y asistencia en la Legislatura de la Pro
 ![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
 ## [🚍 Optimización del Transporte Urbano](https://github.com/cpereyra-bi/TransporteUrbano)
-Analiza, modela y visualiza datos de viaje en tiempo real con un enfoque granular. Convierte minutos y horas en decisiones estratégicas.
+Analiza, modela y visualiza datos de viaje en tiempo real con un enfoque granular. Convierte minutos y horas, medidas DAX avanzadas y visualizaciones interactivas en la visualizacion de patrones de demanda y eficiencia operativa.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Stars](https://img.shields.io/github/stars/cpereyra-bi/LubricomSRL?label=%E2%AD%90%20Star&logo=github&style=flat-square)
+
+## [🛠️ Gestión de Tickets de Soporte Técnico](https://github.com/cpereyra-bi/AtencionalCliente)  
+Dashboard de análisis de tickets en Power BI. Incluye relaciones complejas, medidas DAX personalizadas e indicadores clave de cumplimiento de SLA, tiempos de resolución y desempeño por agente o categoría. También se hace uso de tooltip para análisis contextual.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
+![Stars](https://img.shields.io/github/stars/cpereyra-bi/SoporteTecnico?label=%E2%AD%90%20Star&logo=github&style=flat-square)
 
 ## [🏨 Oferta turística en Córdoba - Análisis de evolución](https://github.com/cpereyra-bi/Alojamiento-Turismo-Cordoba)
 
